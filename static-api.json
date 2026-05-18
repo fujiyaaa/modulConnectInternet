@@ -1,0 +1,8 @@
+[
+    {"nama": "Lightning McQueen", "deskripsi": "Super cepat", "imageId": "lightningMcQueen"},
+    {"nama": "Carla Veloso", "deskripsi": "Lincah di tikungan", "imageId": "carlaVeloso"},
+    {"nama": "Finn McMissile", "deskripsi": "Gadget mata-mata & misil", "imageId": "finnMcMissile"},
+    {"nama": "Doc Hudson", "deskripsi": "Mentor hebat, pembalap legendaris", "imageId": "docHudson"},
+    {"nama": "Miguel Camino", "deskripsi": "Ahli teknik balap artistik", "imageId": "miguelCamino"},
+    {"nama": "Shu Todoroki", "deskripsi": "Drifting hebat", "imageId": "shuTodoroki"}
+]
